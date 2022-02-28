@@ -1,0 +1,3 @@
+[submodule "purl2cpe"]
+	path = purl2cpe
+	url = ./purl2cpe
