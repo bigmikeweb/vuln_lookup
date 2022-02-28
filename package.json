@@ -1,5 +1,5 @@
 {
-  "name": "vulns_db",
+  "name": "vulns_lookup",
   "version": "1.0.0",
   "description": "Vulnerability Lookup",
   "main": "index.js",
